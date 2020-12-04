@@ -102,9 +102,17 @@ header nav a:hover {
 }
 
 .carrossel-filmes {
-	margin-top: 5px;
+	margin-top: 5px;	
 }
 
+/* --------------- Sub título ---------------------------*/
+
+.sub-titulo {
+	margin-left: 15px;
+	font-size: 23px;
+	margin-bottom: 12px;
+	margin-top: 20px;
+}
 
 
 
